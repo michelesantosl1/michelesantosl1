@@ -6,12 +6,12 @@ Estou  cursando Sistemas de Informação. Gosto de participar de imersão e jorn
 ### Detal
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelesantosl1&show_icons=true&theme=dark)](https://github.com/michelesantosl1)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelesantosl1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Projeto
 
-[![Readme card](https://github-readme-stats.vercel.app/api/pin/?username=michelesantosl1&repo=Project-TikTok-clone&theme=dark)](https://github.com/michelesantosl1/Project-TikTok-clone)
+[![Readme card](https://github-readme-stats.vercel.app/api/pin/?username=michelesantosl1&repo=Project-TikTok-clone&theme=dark)]([https://github.com/michelesantosl1/Project-TikTok-clone](https://github.com/anuraghazra/github-readme-stats))
 
 
 ### Linguagegens utilizadas
