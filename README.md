@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-##### Sobre a Michele
-Estou  cursando Sistemas de Informação. Gosto de participar de imersão e jornada dev, para adquirir mais conhecimento
+
 
 ### Detal
 
