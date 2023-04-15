@@ -10,7 +10,7 @@
 
 ### Projeto
 
-[![Readme card](https://github-readme-stats.vercel.app/api/pin/?username=michelesantosl1&repo=Project-TikTok-clone&theme=dark)]([https://github.com/michelesantosl1/Project-TikTok-clone](https://github.com/anuraghazra/github-readme-stats))
+[![Readme card](https://github-readme-stats.vercel.app/api/pin/?username=michelesantosl1&repo=Project-TikTok-clone&theme=dark)]([https://github.com/michelesantosl1/Project-TikTok-clone](https://github.com/michelesantosl1/Project-TikTok-clone))
 
 
 ### Linguagegens utilizadas
