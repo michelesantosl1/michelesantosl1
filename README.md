@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Michele;Estou+cursando+Sistemas+de+Informação;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
@@ -17,6 +16,9 @@
 
 
 [![Readme Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelesantosl1&layout=compact)](https://github.com/michelesantosl1?tab=repositories)
+
+### Skills
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Contatos
 
