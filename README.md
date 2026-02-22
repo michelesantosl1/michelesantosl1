@@ -7,8 +7,6 @@
 🎓 Estudante de Sistemas de Informação  
 💻 Foco em Back-end com Java e Spring Boot  
 🔐 Interesse em Segurança de Aplicações  
- 
-
 ---
 
 ### 🛠️ Tecnologias
@@ -22,7 +20,6 @@
 
 ### 🎯 Objetivo
 Buscando oportunidade como Desenvolvedora Júnior ou Estagiária para evoluir tecnicamente e contribuir com soluções bem estruturadas.
-
 ---
 
 
