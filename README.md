@@ -6,7 +6,8 @@
 ###  Sobre mim
 🎓 Estudante de Sistemas de Informação  
 💻 Foco em Back-end com Java e Spring Boot  
-🔐 Interesse em Segurança de Aplicações  
+🔐 Interesse em Segurança de Aplicações
+
 ---
 
 ### 🛠️ Tecnologias
@@ -16,10 +17,12 @@
 ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 ---
 
 ### 🎯 Objetivo
 Buscando oportunidade como Desenvolvedora Júnior ou Estagiária para evoluir tecnicamente e contribuir com soluções bem estruturadas.
+
 ---
 
 
