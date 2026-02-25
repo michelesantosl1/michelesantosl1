@@ -5,7 +5,7 @@
 
 ###  Sobre mim
 🎓 Estudante de Sistemas de Informação  
-💻 Foco em Back-end com Java e Spring Boot  
+💻 Foco em Desenvolvimento
 🔐 Interesse em Segurança de Aplicações
 
 ---
