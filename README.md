@@ -21,8 +21,18 @@
 ---
 
 ### 🎯 Objetivo
-Buscando oportunidade como Desenvolvedora Júnior ou Estagiária para evoluir tecnicamente e contribuir com soluções bem estruturadas.
-
+🚀 Desenvolvedora Back-end com experiência prática em Java e Spring Boot, atuando no desenvolvimento e construção de APIs REST e integração com bancos de dados relacionais.
+Durante minha experiência na Compass UOL, trabalhei com Java 17, Spring Boot, SQL, Git/GitHub e serviços AWS, participando de atividades de desenvolvimento, manutenção de sistemas e metodologias ágeis.
+Atualmente concluindo o curso de Sistemas de Informação e continuo aprofundando conhecimentos em desenvolvimento back-end, arquitetura de software, bancos de dados, boas práticas de programação e computação em nuvem.
+🛠 Tecnologias:
+• Java 8 e Java 17
+• Spring Boot
+• APIs REST
+• SQL (MySQL e PostgreSQL)
+• Git e GitHub
+• AWS (EC2, S3, IAM)
+☁ Certificação AWS Cloud Practitioner
+Busco oportunidades como Desenvolvedora Back-end Java Júnior para contribuir em projetos de software escaláveis, aprender continuamente e evoluir tecnicamente em ambientes colaborativos.
 ---
 
 
